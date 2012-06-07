@@ -1,0 +1,7 @@
+c:\users\tille\documents\visual studio 2010\Projects\3DGAME\3DGAME\3DGAME\bin\x86\Debug\3DGAME.exe
+c:\users\tille\documents\visual studio 2010\Projects\3DGAME\3DGAME\3DGAME\bin\x86\Debug\3DGAME.pdb
+c:\users\tille\documents\visual studio 2010\Projects\3DGAME\3DGAME\3DGAME\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tille\documents\visual studio 2010\Projects\3DGAME\3DGAME\3DGAME\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\tille\documents\visual studio 2010\Projects\3DGAME\3DGAME\3DGAME\obj\x86\Debug\3DGAME.exe
+c:\users\tille\documents\visual studio 2010\Projects\3DGAME\3DGAME\3DGAME\obj\x86\Debug\3DGAME.pdb
+c:\users\tille\documents\visual studio 2010\Projects\3DGAME\3DGAME\3DGAME\bin\x86\Debug\Content\Models\cartoontreeFBX.xnb
